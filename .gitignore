@@ -9,8 +9,6 @@ node_modules
 build
 
 # secrets
-.env
-.env.*
 !.env.example
 cookies.json
 keys.json
@@ -19,4 +17,4 @@ keys.json
 docker-compose.yml
 
 # ide
-.vscode
+config.bat
